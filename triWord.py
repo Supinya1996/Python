@@ -21,4 +21,3 @@ while row - 2 > 0:
     print()
 
     row = row - 1
-
